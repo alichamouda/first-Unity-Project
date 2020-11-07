@@ -3,4 +3,4 @@
 ____________________________________________
 
 Image en format JPG MyImage.jpg
-![Ali](/MyImage.jpg =250x)
+![Ali](/MyImage.jpg)
