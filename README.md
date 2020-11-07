@@ -1,4 +1,4 @@
-# Projet TP1 Realité Augmenté
+# Projet TP1 Realité Augmentée
 **Ali HAMOUDA** GL5 - *INSAT*
 ____________________________________________
 ## Target Image MyImage.jpg
